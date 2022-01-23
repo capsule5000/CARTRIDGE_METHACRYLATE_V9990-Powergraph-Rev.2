@@ -4,6 +4,10 @@ This methacrylate cartridge is specially designed for the FLASHJACKS PCB designe
 
 # IMAGES
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_V9990-Powergraph-Rev.2/blob/main/Images/front_V9990.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_V9990-Powergraph-Rev.2/blob/main/Images/front1_V9990.png)
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_V9990-Powergraph-Rev.2/blob/main/Images/rear_V9990.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_V9990-Powergraph-Rev.2/blob/main/Images/rear1_V9990.png)
+
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_V9990-Powergraph-Rev.2/blob/main/Images/case1.png)
+
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_V9990-Powergraph-Rev.2/blob/main/Images/case2.png)
